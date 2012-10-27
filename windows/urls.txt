@@ -1,0 +1,8 @@
+# one url per line
+#
+# first number is milliseconds to wait for load/render
+# second is url
+#
+3000,http://www.msn.com/
+3000,http://www.bing.com/
+3000,http://www.techmeme.com/
